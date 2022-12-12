@@ -1,0 +1,25 @@
+
+1. Allow building at current location.
+
+2. Fix frame rate by simplifying loops. <------------ MAKE SURROUNDING HEXAGONS ALWAYS A LIST.
+                                                      If it only needs to be calculated once every time the player moves then the loop runs much faster.
+
+3. Make and implement resource buildings (See pdf)
+
+4. Make forts do what they need to do
+
+5. Make and implement offensive buildings (See pdf)
+
+6. Allow panning and zooming
+
+7. Allow control over multiple units
+
+8. Implement building and army maintenance
+
+9. Make the map 4-way symmetrical
+
+10. Add in enemies
+
+11. Allow enemies to do things
+
+12. Allow combat between enemies
